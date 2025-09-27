@@ -1,4 +1,4 @@
-#Project Euler 1-100
+# Project Euler 1-100
 
 ## Problem 1
 Iterate through 1-1000 and find the mod
